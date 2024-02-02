@@ -2,10 +2,15 @@
 Learning Objectives
 
 	By the end of this lesson, you will be able to:
+
 	List the preferred tools for Source Code Management
+
 	Demonstrate the workflow of Git
+
 	Illustrate GitHub as a Source Code Management tool
+
 	Demonstrate branching, switching branches, and merging 
+
 	branches in Git
 
 
