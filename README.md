@@ -43,37 +43,6 @@ the development process.
 
 What Is GitLab?
 GitLab is a service that provides remote access to Git repositories.
- 
-
-Basic Git Commands
-
-Task Explanation Commands
-Tell Git who the user is Configure the author’s 
-name and email address
-git config --global user.name “Simplilearn"
-git config --global user.emailsimplilearn@example.com
-Create a new local 
-repository
-Create a repository git init 
-Check the repository Create a working copy of 
-a local repository
-git clone /path/to/repository 
-Check the repository Use a remote server git clone username@host:/path/to/repositor
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
-
- 
-
- 
 
 
 Introduction to Branches
@@ -81,24 +50,6 @@ Introduction to Branches
  A Git branch is a lightweight movable pointer to the commits. It is a separate workspace, usually created when you need to experiment or test something, without impacting the main code base.
 
  
-
-
-
-
- 
-
-
- 
-
- 
-
- 
-
-
- 
-
- 
-
 
 Key Takeaways
 
